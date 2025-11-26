@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gggy938",
+    "titulo": "O Senhor dos Anéis – A Sociedade do Anel",
+    "autor": "J. R. R. Tolkien",
+    "isbn": "978-8533613409",
+    "ano": 1954,
+    "disponivel": false
+  },
+  {
+    "id": "1dr84qe",
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "isbn": "978-8520932748",
+    "ano": 1899,
+    "disponivel": false
+  },
+  {
+    "id": "ggna3gl",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "isbn": "978-0451524935",
+    "ano": 1949,
+    "disponivel": false
+  },
+  {
+    "id": "wvcnnle",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J. K. Rowling",
+    "isbn": "978-8532511010",
+    "ano": 1997,
+    "disponivel": true
+  },
+  {
+    "id": "6eppiae",
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "isbn": "978-8522031449",
+    "ano": 1943,
+    "disponivel": true
+  }
+]

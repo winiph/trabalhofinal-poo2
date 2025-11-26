@@ -1,0 +1,34 @@
+[
+  {
+    "id": "61ob3ko",
+    "livroId": "6eppiae",
+    "matriculaMembro": "M005",
+    "dataEmprestimo": "2025-11-25T23:00:37.284Z",
+    "dataPrevDevolucao": "2025-12-10T19:40:39.422Z",
+    "dataDevolucao": "2025-11-26T19:40:39.423Z"
+  },
+  {
+    "id": "aujibo7",
+    "livroId": "gggy938",
+    "matriculaMembro": "M001",
+    "dataEmprestimo": "2025-11-25T23:02:51.034Z",
+    "dataPrevDevolucao": "2025-12-10T19:40:39.423Z",
+    "dataDevolucao": null
+  },
+  {
+    "id": "1zyc9cq",
+    "livroId": "1dr84qe",
+    "matriculaMembro": "M003",
+    "dataEmprestimo": "2025-11-25T23:03:17.391Z",
+    "dataPrevDevolucao": "2025-12-10T19:40:39.423Z",
+    "dataDevolucao": null
+  },
+  {
+    "id": "wtt67vn",
+    "livroId": "ggna3gl",
+    "matriculaMembro": "M002",
+    "dataEmprestimo": "2025-11-25T23:03:57.515Z",
+    "dataPrevDevolucao": "2025-12-10T19:40:39.423Z",
+    "dataDevolucao": null
+  }
+]

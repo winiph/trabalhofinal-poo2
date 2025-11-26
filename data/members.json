@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Ana Beatriz Silva",
+    "matricula": "M001",
+    "endereco": "Rua das Flores, 120 – Centro",
+    "telefone": "(11) 98765-4321"
+  },
+  {
+    "nome": "Carlos Eduardo Santos",
+    "matricula": "M002",
+    "endereco": "Avenida Brasil, 900 – Jardim América",
+    "telefone": "(21) 99812-5521"
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "matricula": "M003",
+    "endereco": "Rua Projetada 45 – Vila Nova",
+    "telefone": "(31) 99182-0033"
+  },
+  {
+    "nome": "João Pedro Almeida",
+    "matricula": "M004",
+    "endereco": "Rua do Carmo, 72 – São José",
+    "telefone": "(41) 98831-7744"
+  },
+  {
+    "nome": "Larissa Gomes",
+    "matricula": "M005",
+    "endereco": "Rua Esperança, 300 – Boa Vista",
+    "telefone": "(71) 98720-1188"
+  }
+]
